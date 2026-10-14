@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: catbrawl-migrate2
+    runtime: docker
+    plan: free
+    region: oregon
